@@ -12,6 +12,6 @@ INPUT            | OUTPUT
 'Green,Amber,Red'|  "Green: 1\nAmber: 1\nRed: 1"
 ''               |  'Please provide valid grades'
 'Red,Orange'     |  'Red: 1\nUncounted: 1'
-1                |  'Please provide valid credentials'
+
 
 ```
